@@ -115,7 +115,7 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num / 2) {
+  if (num % 2 === 0) {
     return true 
   }
   return false 
@@ -124,9 +124,8 @@ function esPar(num) {
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
-  // Tu código:
-  var num = impar; 
-  if (num === 1) {
+  // Tu código: 
+  if (num % 2 === 1) {
     return true
   }
   return false 
