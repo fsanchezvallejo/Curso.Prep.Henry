@@ -1,0 +1,17 @@
+Variables: las variables (var) guardan y recuperan información a través de un nombre 
+y un valor. 
+
+Strings: es cualquier texto que va entre comillas.
+
+Funciones: es una herramineta de programación que sirve para realizar una tarea
+especifica como calcular una variable o retornar un valor.
+Los argumentos son diferentes valores que se agregan a la función.
+
+La declaración de return (return) devuelve el resultado de un valor que se encuentra
+en la función.
+
+La declaración if (if) sirve para controlar que algo dentro de la función se 
+cumpla verificando que sea verdadero o falso.
+
+Los valores booleanos (true, false) significan que el resultado de la función 
+sólo puede tener un resultado verdadero (true) ó falso (false). 
