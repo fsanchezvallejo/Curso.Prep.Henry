@@ -1,0 +1,15 @@
+Conceptos:
+
+Bucles for: es una secuencia de codigo que se repite varias veces hasta que se cumple la condicion
+establecida por el codigo. Se compone de tres partes:
+
+for (var i = 0, i < 100, i++) en donde var i es la variable, i < 100 es la condicion e i++ es la 
+cantidad de veces que se incrementa la variable. 
+
+Operador &&: es un operador logico que significa 'AND'. Sirve para comparar dos expresiones 
+y retorna verdadero si ambas expresiones son true. 
+
+Operador ||: operador logico que significa 'OR'. Sirve para evaluar si una de las expresiones es verdadera. 
+Devuelve true si una o ambas expresiones son true, de lo contrario false.
+
+Operador !: operador logico que significa 'NOT'. sirve para devolver el valor opuesto que se declara. 
