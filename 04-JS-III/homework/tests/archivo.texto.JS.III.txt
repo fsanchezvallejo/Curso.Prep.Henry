@@ -1,0 +1,7 @@
+Concepto Arrays:
+
+Un 'array' es una lista de elementos encerrados en corchetes y separados por comas. 
+Ejemplo:
+
+var numeros = [1, 2, 3, 4] 
+var strings = ['hola', 'tres', 'argentina', 'suma', '120']
