@@ -1,0 +1,17 @@
+Definiciones:
+
+Objetos: un objeto es un contenedor de datos que se declara entre corchetes [] . La sintaxis es a traves 
+de una clave:valor que indica que valor queremos guardar en esa clave o identificador. 
+
+Propiedades: una propiedad no es mas que un par clave:valor. Colocamos el nombre del objeto, 
+un punto, y el nombre de la clave que sería la propiedad. 
+
+Métodos: un método es asignar valores dentro de una función. Las funciones de un objeto se llaman métodos. 
+
+Bucle for...in: sirve para iterar todas las claves de un objeto. Se declara el bucle for, entre parentesis
+se coloca la variable, luego la parabra 'in' y por ultimo el nombre del objeto. 
+
+Notación de puntos: la notacion de puntos y/o corchetes sirve para acceder a los valores 
+del objeto. 
+Con la notacion de puntos hacemos referencia al nombre del objeto, un punto y el nombre de la clave.
+La notacion de corchetes sirve para llamar a un elemento de una matriz (función). 
