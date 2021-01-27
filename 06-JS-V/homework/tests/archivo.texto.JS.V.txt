@@ -1,0 +1,7 @@
+Conceptos:
+
+Prototype: es una propiedad privada de cada objeto. Cada objeto en JS posse un enlace a su Prototype que
+es como si fuera un objeto 'madre' dentro del propio objeto. 
+
+Constructores de clases: es un metodo para crear objetos a partir de una clase. Es como una plantilla que sirve
+para evitar copiar y pegar muchos objetos con las mismas caracteristicas. 
