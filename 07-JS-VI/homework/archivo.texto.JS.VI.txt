@@ -1,0 +1,4 @@
+Conceptos:
+
+Funciones Callback: son funciones que reciben otras funciones como argumento y las ejecutan. 
+Esta función se ejecutará despues de que otra funcion haya terminado de ejecutarse. 
