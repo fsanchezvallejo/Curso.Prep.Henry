@@ -1,0 +1,32 @@
+.Titulo {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+
+}
+
+.Foto {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+h2 {
+    color:navy;
+}
+
+body {
+    background-color:wheat ;
+}
+#Motivacion {
+    padding: 5px;
+    border: 5px solid red;
+    margin: 0 auto;
+    background-color:skyblue;
+    width: 1200px;
+    height: 100px; 
+}
+
+
